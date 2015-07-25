@@ -1,6 +1,7 @@
 "use strict";
  
 angular.module('app.service.db', [
+    "ionic"
 ])
 
 .factory('DBService', 
